@@ -1,0 +1,35 @@
+.main-container {
+    width: 100%;
+}
+
+.view {
+    padding-top: 20px;
+    width: 99vw;
+}
+
+.home-img {
+    width: 85%;
+}
+
+#revival-img {
+    width: 20%;
+}
+
+#revival-text >h1 {
+    margin: 3px;
+    font-size: 65px;
+}
+
+#revival-text >h3 {
+    margin: 3px;
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+insert into tops (item_img, item_name, price)
+values
+('https://static.wixstatic.com/media/bad424_7bdfa6800f4d47f69e8b449a70a599ec~mv2.jpg/v1/fill/w_250,h_250,q_85,usm_0.66_1.00_0.01/bad424_7bdfa6800f4d47f69e8b449a70a599ec~mv2.webp', 'CrossArrow Tops', 30),
+('https://static.wixstatic.com/media/bad424_30d5d45a87e345598b4292ae15bec69d~mv2.jpg/v1/fill/w_250,h_250,q_85,usm_0.66_1.00_0.01/bad424_30d5d45a87e345598b4292ae15bec69d~mv2.webp', 'Urban Tank Top', 35),
+('https://static.wixstatic.com/media/bad424_c85e39a4cf324d3a81129e0a2fc6b449~mv2_d_2845_4265_s_4_2.jpg/v1/fill/w_500,h_750,q_85,usm_0.66_1.00_0.01/bad424_c85e39a4cf324d3a81129e0a2fc6b449~mv2_d_2845_4265_s_4_2.webp', 'CrossArrow Scoop Tee', 24),
+('https://static.wixstatic.com/media/bad424_908f89f4d42645e0a5e75d1be104f80a~mv2_d_7952_5304_s_4_2.jpg/v1/fill/w_250,h_250,q_85,usm_0.66_1.00_0.01/bad424_908f89f4d42645e0a5e75d1be104f80a~mv2_d_7952_5304_s_4_2.webp', 'GMRT Originals Scoop Tee', 24),
+('https://static.wixstatic.com/media/bad424_b3c0a59db53e4999b3ea5b2a250d2893~mv2_d_7952_5304_s_4_2.jpg/v1/fill/w_250,h_250,q_85,usm_0.66_1.00_0.01/bad424_b3c0a59db53e4999b3ea5b2a250d2893~mv2_d_7952_5304_s_4_2.webp', 'Crop Tops', 22),
+('https://static.wixstatic.com/media/bad424_aec3a5348bba47ab9e8bc243a48c66d0~mv2_d_7577_5054_s_4_2.jpg/v1/fill/w_250,h_250,q_85,usm_0.66_1.00_0.01/bad424_aec3a5348bba47ab9e8bc243a48c66d0~mv2_d_7577_5054_s_4_2.webp', 'GMRT Originals', 20),
+('https://static.wixstatic.com/media/bad424_e4e6e051ef2340779579667e17d73e71~mv2_d_6630_5304_s_4_2.jpg/v1/fill/w_250,h_250,q_85,usm_0.66_1.00_0.01/bad424_e4e6e051ef2340779579667e17d73e71~mv2_d_6630_5304_s_4_2.webp', 'Lifestyle Tee', 20),
+('https://static.wixstatic.com/media/bad424_2e5f2b9d02964a0f8a9d3eb67f69f180~mv2_d_2294_1536_s_2.jpg/v1/fill/w_250,h_250,q_85,usm_0.66_1.00_0.01/bad424_2e5f2b9d02964a0f8a9d3eb67f69f180~mv2_d_2294_1536_s_2.webp', 'Assassin Crop Tee', 25),
+('https://static.wixstatic.com/media/bad424_c7cb533698e04734a47ce11ec174ced5~mv2_d_5304_7952_s_4_2.jpg/v1/fill/w_250,h_250,q_85,usm_0.66_1.00_0.01/bad424_c7cb533698e04734a47ce11ec174ced5~mv2_d_5304_7952_s_4_2.webp', 'GMRT Women Tee', 20);

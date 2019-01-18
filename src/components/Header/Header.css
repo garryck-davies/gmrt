@@ -1,0 +1,24 @@
+.header-container {
+    width: 100%;
+    z-index: 10;
+    position: sticky;
+    margin: 0;
+}
+
+
+#logo {
+    width: 10em;
+    margin-top: 10px;
+}
+
+#header-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#header-text p:first-of-type {
+    font: 2em bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana; 
+}

@@ -1,0 +1,14 @@
+.product-component {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+
+#product-img {
+    width: 30%;
+    margin-top: 2em;
+    margin-left: 2em;
+    display: flex;
+}
